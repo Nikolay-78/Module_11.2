@@ -10,6 +10,7 @@ namespace Module_11._2_Var_Const_Liter
             const string Myname2 = "Мартин";         
             Console.WriteLine("\t Меня зовут {0}. \n \t А мою собаку {1}.", Myname, Myname2);
             Console.WriteLine("\t Я играю со своей собакой. \n \t Мартин громко лает и резвится.");
+            Console.WriteLine("\t P.S.: В этом модуле мы познакомились с переменными, константами, литералами");
             Console.ReadKey();
         }
     }
